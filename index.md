@@ -21,7 +21,7 @@ AR lazer googles project.  A way to use AR headsets to show lazer beam location 
 ### Teaching
 
 ## Current Classes
-[ Android Mobile Programming ]( https://github.com/kperkins411/OpenCVEdgeTest)<BR>
+[ Android Mobile Programming ]( https://cnuclasses.github.io/CS475/)<BR>
 [ C++ ]( https://github.com/kperkins411/OpenCVEdgeTest)<BR>
 Operating Systems
 
